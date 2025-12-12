@@ -1,0 +1,19 @@
+{
+  "website_address": "https://diakon.churchofgospelmissionaries.com/user/signin.php",
+  "app_name": "Diakon Missionary",
+  "version_code": "1",
+  "version_name": "1.0.0",
+  "name_space": "com.diakonmissionary",
+  "has_custom_icon": true,
+  "build_type": "release",
+  "platform": "android",
+  "permissions": {
+    "camera": "enabled",
+    "location": "enabled",
+    "microphone": "enabled",
+    "notifications": "disabled",
+    "contacts": "enabled"
+  },
+  "created_at": "2025-12-12T12:07:08.307Z",
+  "app_icon": "data:image/png;base64,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"
+}
